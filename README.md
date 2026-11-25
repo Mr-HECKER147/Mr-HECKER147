@@ -1,6 +1,6 @@
 # Hi, I'm Uddhav Joshi 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=650&lines=CSE+(AI+%26+ML)+Student;C%2B%2B+%7C+Systems+%7C+Networking+%7C+AI%2FML;Computer+Vision+%7C+OpenCV+%7C+YOLO;Loves+building%2C+debugging+%26+improving+projects" alt="Typing SVG" />
+<img width="100%" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&center=true&vCenter=true&width=700&lines=%24+whoami;uddhav_joshi+%7C+CSE+(AI+%26+ML);%24+cat+interests.txt;C%2B%2B+%7C+systems+%7C+networking;%E2%94%82+AI%2FML+%7C+computer+vision+%7C+OpenCV;%E2%94%82+YOLO+%7C+PyTorch+%7C+CUDA;%24+status;building+projects+and+debugging..." alt="Terminal animation"/>
 
 I’m a student developer focused on **C++, systems programming, networking, machine learning, and computer vision**. I enjoy learning by building real projects, troubleshooting problems, and turning ideas into working software.
 
