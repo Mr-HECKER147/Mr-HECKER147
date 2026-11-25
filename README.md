@@ -4,13 +4,13 @@
 
 I’m a student developer focused on **C++, systems programming, networking, machine learning, and computer vision**. I enjoy learning by building real projects, troubleshooting problems, and turning ideas into working software.
 
-## 🚀 What I’m working on
+## 🚀 What I like working on
 
-- 🔧 Building projects in **C++**, with a focus on systems-oriented and networking tools  
+- 🔧 Building projects in **C++ and Python**, with a focus on systems-oriented, networking tools and backend
 - 🌐 Learning **TCP/IP, sockets, WebSockets, multithreading, Linux, and CMake**  
-- 🤖 Exploring **machine learning, computer vision, OpenCV, YOLO, and GPU-accelerated AI**  
-- 🧠 Practicing **data structures, algorithms, and problem solving**  
-- 🛠️ Improving project structure, documentation, testing, and real-world usability  
+- 🤖 Exploring **machine learning, Computer Vision and GPU-accelerated software projects**  
+- 🧠 Practicing **data structures, algorithms, troubleshooting, and problem solving**  
+- 🛠️ Improving project structuring, documentation, testing, and real-world usability  
 
 ## 🧰 Technologies I work with
 
@@ -18,9 +18,7 @@ I’m a student developer focused on **C++, systems programming, networking, mac
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
 
 ### AI, Vision & Data
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
@@ -64,15 +62,6 @@ A computer-vision project that detects people in aerial/post-disaster imagery.
 
 🛠️ **Tech:** Python, PyTorch, YOLO, OpenCV, CUDA fundamentals
 
-### 👁️ Real-Time Computer Vision Pipeline
-A live camera/video processing application built with OpenCV.
-
-- Implemented real-time frame processing and FPS tracking
-- Added Sobel edge detection, contour detection, and Haar-cascade face detection
-- Integrated external camera input and tested the pipeline on live video feeds
-- Designed as a base for adding ML-based object detection
-
-🛠️ **Tech:** Python, OpenCV, Computer Vision
 
 ### 🧑‍🎓 Academic Risk Early Warning System
 A Streamlit application that explores student-risk prediction using machine-learning tools.
